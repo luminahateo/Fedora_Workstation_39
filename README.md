@@ -10,10 +10,10 @@
 
 ### Install
 1/ Download script    
-2/ Unzip
-3/ Open Terminal, go to the folder and execute
-4/ ```chmod -R 755 Fedora_WS``` for execute my script
-5/ and for run  ```./"Fedora_WS/start.sh"```         
+2/ Unzip   
+3/ Open Terminal, go to the folder and execute   
+4/ ```chmod -R 755 Fedora_WS``` for execute my script   
+5/ and for run  ```./"Fedora_WS/start.sh"```            
 
 ![001](AttachREADME/001.png)  
 ![002](AttachREADME/002.png)  
